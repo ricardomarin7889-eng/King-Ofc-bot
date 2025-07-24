@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <p>
-<img src= "https://xatimg.com/image/bdd9d6563d481c1a17744753de6e18efcdf9dd5e.jpg" alt="𝙆𝙄𝙉𝙂-𝙊𝙁𝘾-𝙑𝟰" width="720">
+<img src= "https://xatimg.com/image/bdd9d6563d481c1a17744753de6e18efcdf9dd5e.jpg" alt="𝙆𝙄𝙉𝙂-𝙊𝙁𝘾 𝙑𝟰" width="720">
 </p>
 
 <p align="center">
