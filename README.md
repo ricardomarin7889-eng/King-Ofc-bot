@@ -14,7 +14,7 @@
 <img title="Versão" src="https://img.shields.io/badge/Versão-4.0.0-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
-## Instalação Via Termux  <img src="https://user-images.githubusercontent.com/ea89c4441a20c1cc760909f3b771dfed.png" height="25px">
+## Instalação Via Termux  <img src="https://user-images.githubusercontent.com/bdd9d6563d481c1a17744753de6e18efcdf9dd5e.png" height="25px">
 **1° Comando**
 ```
 apt-get update -y && pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install wget -y && pkg install tesseract -y && pkg install git -y
@@ -36,7 +36,7 @@ cd /storage/emulated/0/Download && git clone https://github.com/KING-OFC40/KING-
 cd /storage/emulated/0/Download/KING-OFC-V4 && npm start
 ```
 
-## 💾 START DO BOT 💾 <img src="https://user-images.githubusercontent.com/ea89c4441a20c1cc760909f3b771dfed.png" height="25px">
+## 💾 START DO BOT 💾 <img src="https://user-images.githubusercontent.com/bdd9d6563d481c1a17744753de6e18efcdf9dd5e.png" height="25px">
 ```
 npm start
 ```
