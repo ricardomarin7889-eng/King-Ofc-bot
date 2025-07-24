@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <p>
-<img src= "https://xatimg.com/image/bdd9d6563d481c1a17744753de6e18efcdf9dd5e.jpg" alt="𝙆𝙄𝙉𝙂-𝙊𝙁𝘾 𝙑𝟰" width="720">
+<img src= "https://xatimg.com/image/bdd9d6563d481c1a17744753de6e18efcdf9dd5e.jpg" alt="𝙆𝙄𝙉𝙂-𝙊𝙁𝘾-𝙑𝟰" width="720">
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ termux-setup-storage
 ```
 **3° Comando**
 ```
-cd /storage/emulated/0/Download && git clone https://github.com/KING-OFC40/KING-BOT-V4
+cd /storage/emulated/0/Download && git clone https://github.com/KING-OFC-40/KING-BOT-V4
 ```
 **4° Comando**
 ```
