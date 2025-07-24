@@ -14,7 +14,7 @@
 <img title="Versão" src="https://img.shields.io/badge/Versão-4.0.0-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
-## Instalação Via Termux  <img src="https://user-images.githubusercontent.com/bdd9d6563d481c1a17744753de6e18efcdf9dd5e.png" height="25px">
+## Instalação Via Termux  <img src="https://user-images.githubusercontent.com/6cb71b74de7458def27d5250b7bc8c9a13d5af6a.png" height="25px">
 **1° Comando**
 ```
 apt-get update -y && pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install wget -y && pkg install tesseract -y && pkg install git -y
